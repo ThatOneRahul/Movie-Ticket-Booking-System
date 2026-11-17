@@ -15,7 +15,7 @@ The code is 688 lines in 12 Java files. It uses the concepts from Java Lab Exper
 | `run.bat` | Compiles and starts the program on Windows |
 | `run.sh` | Compiles and starts the program on Mac or Linux |
 | `Movie Ticket Booking System - Lab Journal.pdf` | The lab journal write-up (title, problem statement, objectives, code, screenshots) |
-| `Movie Ticket Booking System - Presentation.pptx` | PowerPoint slides for presenting the project (14 slides with speaker notes) |
+| `Movie Ticket Booking System - Presentation.pptx` | PowerPoint slides for presenting the project: title, problem statement, objective, program and output (12 slides with speaker notes) |
 | `screenshots/` | Pictures of the program used in this README |
 | `.vscode/` | Settings so VS Code finds the `src` folder |
 | `LICENSE` | MIT license |
